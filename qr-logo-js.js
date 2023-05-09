@@ -29,11 +29,6 @@ const QRCodeGenerator = function (options) {
   this.init();
 };
 
-// All the methods from the original React component should be added here as prototype methods
-// Make sure to replace all references of `this.props` with `this.options`
-// Replace all React-specific methods like `componentDidMount`, `componentDidUpdate`, and `shouldComponentUpdate`
-// with appropriate methods or logic in your new class
-
 QRCodeGenerator.prototype.init = function () {
   // Your initialization logic here
   this.update();
