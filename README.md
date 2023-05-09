@@ -25,7 +25,7 @@ This script using lodash and qrcode-generator, so you need to include them too.
 Then you can use it like this:
 
 ```html
-<canvas id="qr-code"></canvas>
+<div id="qr-code"></div>
 ```
 
 ```javascript
