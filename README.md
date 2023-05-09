@@ -2,6 +2,14 @@
 
 A pure JS port of this project: https://github.com/gcoro/react-qrcode-logo
 
+<div style="display: flex; flex-direction: row;">
+	<img src="res/qrcode-react.png" height="256" width="256">
+	<img src="res/qrcode-mikuv3.png" height="256" width="256">
+	<img src="res/qrcode-ts.png" height="256" width="256">
+  <img src="res/qrcode-android.png" height="256" width="256">
+  <img src="res/qrcode-custom.png" height="256" width="256">
+</div>
+
 ## Usage
 
 Include it in your html file:
